@@ -1,0 +1,20 @@
+{
+  "token": "NzIwMDM3ODk3MTA5MjQxOTg4.XuAJmQ.8gOheVIUwmZWzxCpPJJLOU44Y8A",
+  "prefix": "-",
+  "name": "Drilla Loans Ticket Bot",
+  "guildID": "708062169157206178",
+  "supportRole": "720036602545700954",
+  "ticketsCat": "720038272545456138",
+  "logChannel": "720036858955956245",
+  "colour": "#009999",
+  "playing": "with tickets (-help)",
+  "activityType": "PLAYING",
+  "status": "ONLINE",
+  "useEmbeds": true,
+  "logDMs": true,
+  "cooldown": 3,
+  "ticketImage": false,
+  "tagHereOnly": false,
+  "ticketText": "Thank you for creating a ticket. A staff member will be with you shortly.",
+  "debugLevel": 0
+}
